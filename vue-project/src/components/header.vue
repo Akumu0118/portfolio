@@ -2,11 +2,15 @@
 </script>
 
 <template>
-  <div class="flex justify-left items-left h-screen">
-    <h1 class="text-orange-800 text-7xl font-bold">MY PORTFOLIO</h1>
-  </div>
+  <header class="flex flex-col justify-center items-center text-center px-4">
+    <h1 class="text-4xl sm:text-6xl md:text-7xl font-extrabold text-green-700 mb-3 tracking-tight">
+      MY PORTFOLIO
+    </h1>
+  </header>
+</template>
 
-  <div>
-    <img>
-  </div>
-</template> 
+<style scoped>
+.fam-font {
+   font-family: 'Roboto', sans-serif;
+}
+</style>
