@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import HeroSection from './components/hero_section.vue'
 import AboutMe from './components/about_me.vue'
 import SkillsSection from './components/skills_section.vue'
